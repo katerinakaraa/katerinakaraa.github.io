@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+I am a high school senior at Choate Rosemary Hall participating in the Science Research Program (SRP). I am currently working with Kris Pardo and Eleanor Stuart at Cosmolab at USC on a gravitational waves project. 
